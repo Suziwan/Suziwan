@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Suzanne!
+### 👋 Hi there, I'm Suzanne!
 
 - 📊 I’m currently studing Data Analysis at [The Hacking Project](https://www.thehackingproject.org/)
 
@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: christe.suzanne@gmail.com
 
-### Languages and Tools:
+### 💬 Languages and Tools:
 <img align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suziwan&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Languages" height="180">
 
 ##### Web Development:
@@ -24,7 +24,7 @@
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="sqlite" width="50" height="50"/></a>
 <a href="https://sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="50" height="50"/></a>
 
-### GitHub Stats:
+### 📈 GitHub Stats:
 <img align ="left" src="https://github-readme-stats.vercel.app/api?username=Suziwan&theme=light&hide_border=false&include_all_commits=false&count_private=false" alt="Stats">
 <img align ="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Suziwan&theme=light&hide_border=false" alt="Streak">
 
