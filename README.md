@@ -7,7 +7,7 @@
 - 📫 How to reach me: christe.suzanne@gmail.com
 
 ### 💬 Languages and Tools:
-<img align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suziwan&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Languages" height="180">
+<img align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suziwan&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Languages">
 
 ##### Web Development:
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a> 
@@ -25,6 +25,5 @@
 <a href="https://sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="50" height="50"/></a>
 
 ### 📈 GitHub Stats:
-<img align ="left" src="https://github-readme-stats.vercel.app/api?username=Suziwan&theme=light&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" height="180">
-<img align ="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Suziwan&theme=light&hide_border=false" alt="Streak" height="180">
-
+<img align ="left" src="https://github-readme-stats.vercel.app/api?username=Suziwan&theme=light&hide_border=false&include_all_commits=false&count_private=false" alt="Stats">
+<img align ="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Suziwan&theme=light&hide_border=false" alt="Streak">
