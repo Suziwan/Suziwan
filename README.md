@@ -25,6 +25,6 @@
 <a href="https://sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="50" height="50"/></a>
 
 ### 📈 GitHub Stats:
-<img align ="left" src="https://github-readme-stats.vercel.app/api?username=Suziwan&theme=light&hide_border=false&include_all_commits=false&count_private=false" alt="Stats">
-<img align ="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Suziwan&theme=light&hide_border=false" alt="Streak">
+<img align ="left" src="https://github-readme-stats.vercel.app/api?username=Suziwan&theme=light&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" height="150">
+<img align ="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Suziwan&theme=light&hide_border=false" alt="Streak" height="150">
 
