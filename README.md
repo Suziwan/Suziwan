@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Suzanne!
 
-- 📊 I’m currently studing Data Analysis at [The Hacking Project](https://www.thehackingproject.org/)
+- 📊 I’m currently studying Data Analysis at [The Hacking Project](https://www.thehackingproject.org/)
 
 - 🐍 I’m currently learning **Python**
 
