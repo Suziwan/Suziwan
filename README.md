@@ -1,13 +1,16 @@
-### 👋 Hi there, I'm Suzanne!
+<img align="right" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" alt="Languages" height="250">
+
+### 👋 Hi there, I'm Suzanne! 
 
 - 📊 I’m currently studying Data Analysis at [The Hacking Project](https://www.thehackingproject.org/)
 
 - 🐍 I’m currently learning **Python**
 
 - 📫 How to reach me: christe.suzanne@gmail.com
+</br>
 
 ### 💬 Languages and Tools:
-<img align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suziwan&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Languages" width="40%">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suziwan&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Languages" width="40%">
 
 #### Web Development:
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a> 
@@ -25,6 +28,8 @@
 <a href="https://sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="50" height="50"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="sqlite" width="50" height="50"/></a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="sqlite" width="50" height="50"/></a>
+
+</br>
 
 ### 📈 GitHub Stats:
 <img align ="left" src="https://github-readme-stats.vercel.app/api?username=Suziwan&theme=light&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" width="46%">
