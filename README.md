@@ -23,6 +23,8 @@
 <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" width="50" height="50"/></a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="sqlite" width="50" height="50"/></a>
 <a href="https://sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="50" height="50"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="sqlite" width="50" height="50"/></a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="sqlite" width="50" height="50"/></a>
 
 ### 📈 GitHub Stats:
 <img align ="left" src="https://github-readme-stats.vercel.app/api?username=Suziwan&theme=light&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" width="46%">
