@@ -56,5 +56,5 @@ print("I am a former Materials scientist, now learning Data!")
 </br>
 
 ## 📈 GitHub Stats:
-<a href="https://github.com/Suziwan/Suziwan"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suziwan&theme=light&hide_border=false" alt="Streak" height="180"></a>
-<a href="https://github.com/Suziwan/Suziwan"> <img src="https://github-readme-stats.vercel.app/api?username=Suziwan&theme=light&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" height="180"></a>
+<a href="https://github.com/Suziwan/Suziwan"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suziwan&theme=light&hide_border=false" alt="Streak" height="160"></a>
+<a href="https://github.com/Suziwan/Suziwan"> <img src="https://github-readme-stats.vercel.app/api?username=Suziwan&theme=light&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" height="160"></a>
