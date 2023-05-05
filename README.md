@@ -5,7 +5,7 @@
 import coffee
 import music
 
-print("I am a former Materials scientist living in Porto (Portugal) but originally from Lyon (France)")
+print("I am living in Porto (Portugal) but originally from Lyon (France)")
 
 ```
 
