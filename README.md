@@ -1,17 +1,28 @@
-<img align="right" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" alt="Languages" height="auto" width="35%">
+## <img align="right" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" alt="Languages" height="auto" width="360"> 👋 Hi there, I'm Suzanne! 
 
-## 👋 Hi there, I'm Suzanne! 
+```python
+# Hello
+import coffee
+import music
+
+print("I am a former Materials scientist living in Porto (Portugal) but originally from Lyon (France)")
+
+```
 
 - 📊 I’m currently studying Data Analysis at [The Hacking Project](https://www.thehackingproject.org/)
 
 - 🐍 I’m currently learning **Python, SQL, PowerBI**
 
-- 📫 How to reach me: christe.suzanne@gmail.com
+- 📫 How to reach me:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/suzanne-christ%C3%A9-5213b112b/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:christe.suzanne@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/-Discord-purple?style=flat&logo=Discord&logoColor=white&link=discord.com)](https://discordapp.com/users/696455638234169456)
 
-</br>
 
 ## 💬 Languages and Tools:
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suziwan&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Languages" width="40%">
+<a href="https://github.com/Suziwan/Suziwan">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suziwan&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Languages" width="400">
+</a>
 
 ### Web Fullstack:
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a> 
@@ -42,5 +53,5 @@
 </br>
 
 ## 📈 GitHub Stats:
-<img align ="left" src="https://github-readme-stats.vercel.app/api?username=Suziwan&theme=light&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" width="46%">
-<img align ="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Suziwan&theme=light&hide_border=false" alt="Streak" width="46%">
+<a href="https://github.com/Suziwan/Suziwan"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suziwan&theme=light&hide_border=false" alt="Streak" height="200"></a>
+<a href="https://github.com/Suziwan/Suziwan"> <img src="https://github-readme-stats.vercel.app/api?username=Suziwan&theme=light&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" height="200"></a>
