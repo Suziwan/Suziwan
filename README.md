@@ -5,7 +5,10 @@
 import coffee
 import music
 
-print("I am living in Porto (Portugal) but originally from Lyon (France)")
+current_city = "Porto, Portugal"
+nationality = "french"
+
+print("I am a former Materials scientist, now learning Data!")
 
 ```
 
