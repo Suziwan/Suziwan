@@ -23,7 +23,7 @@ print("I am a former Materials scientist, now learning Data!")
 
 ## 💬 Languages and Tools:
 <a href="https://github.com/Suziwan/Suziwan">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suziwan&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Languages" width="350">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suziwan&langs_count=6&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Languages" width="350">
 </a>
 
 ### Data Science:
