@@ -60,6 +60,7 @@ print("I am a former Materials scientist, now learning Data!")
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" title="Canva" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" title="Figma" width="40" height="40"/></a>
 <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" title="Trello" width="40" height="40"/></a>
+<a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src=/logos/logo_notion.svg alt="notion" title="Notion" width="40" height="40"/></a>
 
 </br>
 
