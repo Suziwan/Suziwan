@@ -3,7 +3,6 @@
 ```python
 # Hello
 import coffee
-import music
 
 current_city = "Porto, Portugal"
 nationality = "french"
@@ -11,7 +10,7 @@ nationality = "french"
 print("I am a former Materials scientist, now learning Data!")
 ```
 
-- 📊 I’m currently studying Data Analysis at [The Hacking Project](https://www.thehackingproject.org/)
+- 📊 I just finished studying Data Analysis at [The Hacking Project](https://www.thehackingproject.org/)
 
 - 🐍 I’m currently learning **Python, SQL, PowerBI, Tableau**
 
@@ -37,9 +36,9 @@ print("I am a former Materials scientist, now learning Data!")
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src=/logos/logo_matplotlib.svg alt="matplotlib" title="Matplotlib" width="40" height="40"/></a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src=/logos/logo_seaborn.svg alt="seaborn" title="Seaborn" width="40" height="40"/></a>
 
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src=/logos/logo_excel.svg alt="excel" title="Excel" width="40" height="40"/></a>
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src=/logos/logo_powerbi.svg alt="powerbi" title="PowerBI" width="40" height="40"/></a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src=/logos/logo_tableau.svg alt="tableau" title="Tableau" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src=/logos/logo_excel.svg alt="excel" title="Excel" width="40" height="40"/></a>
 <a href="https://analytics.google.com/analytics/web/" target="_blank" rel="noreferrer"> <img src=/logos/logo_googleanalytics.svg alt="analytics" title="Google Analytics" width="40" height="40"/></a>
 
 ### Web Fullstack:
