@@ -40,6 +40,7 @@ print("I am a former Materials scientist, now learning Data!")
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src=/logos/logo_powerbi.svg alt="powerbi" title="PowerBI" width="40" height="40"/></a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src=/logos/logo_tableau.svg alt="tableau" title="Tableau" width="40" height="40"/></a>
 <a href="https://analytics.google.com/analytics/web/" target="_blank" rel="noreferrer"> <img src=/logos/logo_googleanalytics.svg alt="analytics" title="Google Analytics" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src=/logos/logo_mongodb.svg alt="mongodb" title="MongoDB" width="40" height="40"/></a>
 
 ### Web Fullstack:
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" title="HTML 5" width="40" height="40"/></a> 
