@@ -12,12 +12,14 @@ print("I am a former Materials scientist, now learning Data!")
 
 - 📊 I just finished studying Data Analysis at [The Hacking Project](https://www.thehackingproject.org/)
 
-- 🐍 I’m currently learning **Python, SQL, PowerBI, Tableau**
+- 📚 I’m currently learning **MongoDB, Microstrategy, Dataiku**
 
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/suzanne-christ%C3%A9-5213b112b/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:christe.suzanne@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-Discord-purple?style=flat&logo=Discord&logoColor=white&link=discord.com)](https://discordapp.com/users/696455638234169456)
+
+<!-- - 📁➡️ Check out my Portfolio:  -->
 
 
 ## 💬 Languages and Tools:
