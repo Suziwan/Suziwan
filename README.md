@@ -35,14 +35,14 @@ print("I am a former Materials scientist, now learning Data!")
 <a href="https://sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" title="SQLite" width="40" height="40"/></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas" width="40" height="40"/></a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" title="NumPy" width="40" height="40"/></a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src=/logos/logo_matplotlib.svg alt="matplotlib" title="Matplotlib" width="40" height="40"/></a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src=/logos/logo_seaborn.svg alt="seaborn" title="Seaborn" width="40" height="40"/></a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="/logos/logo_matplotlib.svg" alt="matplotlib" title="Matplotlib" width="40" height="40"/></a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="/logos/logo_seaborn.svg" alt="seaborn" title="Seaborn" width="40" height="40"/></a>
 
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src=/logos/logo_excel.svg alt="excel" title="Excel" width="40" height="40"/></a>
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src=/logos/logo_powerbi.svg alt="powerbi" title="PowerBI" width="40" height="40"/></a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src=/logos/logo_tableau.svg alt="tableau" title="Tableau" width="40" height="40"/></a>
-<a href="https://analytics.google.com/analytics/web/" target="_blank" rel="noreferrer"> <img src=/logos/logo_googleanalytics.svg alt="analytics" title="Google Analytics" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src=/logos/logo_mongodb.svg alt="mongodb" title="MongoDB" width="40" height="40"/></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="/logos/logo_excel.svg" alt="excel" title="Excel" width="40" height="40"/></a>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="/logos/logo_powerbi.svg" alt="powerbi" title="PowerBI" width="40" height="40"/></a>
+<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="/logos/logo_tableau.svg" alt="tableau" title="Tableau" width="40" height="40"/></a>
+<a href="https://analytics.google.com/analytics/web/" target="_blank" rel="noreferrer"> <img src="/logos/logo_googleanalytics.svg" alt="analytics" title="Google Analytics" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="/logos/logo_mongodb.svg" alt="mongodb" title="MongoDB" width="40" height="40"/></a>
 
 ### Web Fullstack:
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" title="HTML 5" width="40" height="40"/></a> 
