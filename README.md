@@ -19,7 +19,7 @@ print("I am a former Materials scientist, now learning Data!")
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:christe.suzanne@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-Discord-purple?style=flat&logo=Discord&logoColor=white&link=discord.com)](https://discordapp.com/users/696455638234169456)
 
-<!-- - 📁➡️ Check out my Portfolio:  -->
+- 📁 Check out my **Portfolio**: https://suziwan.github.io/Portfolio/
 
 
 ## 💬 Languages and Tools:
