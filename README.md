@@ -1,12 +1,6 @@
 ## <img align="right" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" alt="Languages" height="auto" width="360"> 👋 Hi there, I'm Suzanne! 
 
 ```python
-# Hello
-import coffee
-
-current_city = "Porto, Portugal"
-nationality = "french"
-
 print("I am a former Materials scientist, now learning Data!")
 ```
 
