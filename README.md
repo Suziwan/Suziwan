@@ -1,12 +1,10 @@
 ## <img align="right" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" alt="Languages" height="auto" width="360"> 👋 Hi there, I'm Suzanne! 
 
-```python
-print("I'm a Materials scientist who changed career to Data!")
-```
+<br>
 
 - 📊 I recently finished studying Data Analysis at [The Hacking Project](https://www.thehackingproject.org/)
 
-- 🔍 I’m currently **looking for a job**!
+- 🔍 I’m currently **looking for a job**, don't hesitate to send me opportunities!
 
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/suzanne-christ%C3%A9-5213b112b/)
@@ -15,6 +13,11 @@ print("I'm a Materials scientist who changed career to Data!")
 
 - 📁 Check out my **Portfolio**: https://suziwan.github.io/Portfolio/
 
+<br>
+
+```python
+print("I'm a former Materials scientist who changed career to Data Analysis/Science!")
+```
 
 ## 💬 Languages and Tools:
 <a href="https://github.com/Suziwan/Suziwan">
