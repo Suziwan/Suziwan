@@ -2,9 +2,9 @@
 
 <br>
 
-- 📊 I finished studying Data Analysis & Fullstack Web Development at [The Hacking Project](https://www.thehackingproject.org/)
+- 🎓 I finished studying Data Analysis & Web Fullstack at [The Hacking Project](https://www.thehackingproject.org/)
 
-- 🔍 I’m currently doing an internship at Natixis!
+- 📊 I’m currently doing an internship at Natixis!
 
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/suzanne-christ%C3%A9-5213b112b/)
