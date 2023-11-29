@@ -2,7 +2,7 @@
 
 <br>
 
-- 📊 I finished studying Data Analysis at [The Hacking Project](https://www.thehackingproject.org/)
+- 📊 I finished studying Data Analysis & Fullstack Web Development at [The Hacking Project](https://www.thehackingproject.org/)
 
 - 🔍 I’m currently doing an internship at Natixis!
 
