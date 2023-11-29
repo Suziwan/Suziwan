@@ -2,9 +2,9 @@
 
 <br>
 
-- 📊 I recently finished studying Data Analysis at [The Hacking Project](https://www.thehackingproject.org/)
+- 📊 I finished studying Data Analysis at [The Hacking Project](https://www.thehackingproject.org/)
 
-- 🔍 I’m currently **looking for a job**, don't hesitate to send me opportunities!
+- 🔍 I’m currently doing an internship at Natixis!
 
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/suzanne-christ%C3%A9-5213b112b/)
