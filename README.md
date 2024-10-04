@@ -2,9 +2,9 @@
 
 <br>
 
-- 🎓 I finished Data Analysis & Web Fullstack courses at [The Hacking Project](https://www.thehackingproject.org/)
+- 🎓 I did Data Analysis & Web Fullstack courses at [The Hacking Project](https://www.thehackingproject.org/)
 
-- 📊 I’m currently working as a Junior Developer at Natixis!
+- 📊 I’m currently working as a Junior Developer at BPCE!
 
 - 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/suzanne-christ%C3%A9-5213b112b/)
